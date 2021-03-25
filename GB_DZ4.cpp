@@ -126,8 +126,6 @@ int main()
 	cout << endl;
 	test4();
 	cout << endl;
-	test4(); 
-	cout << endl;
 	test5();
 	cout << endl;
 	
